@@ -1,0 +1,7 @@
+r#include <studo.h>
+
+int main(){
+
+	printf("Hello World!");
+	return -1;
+}
